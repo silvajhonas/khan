@@ -1,9 +1,4 @@
-# 🌿 Khanware
 
-### The Most Advanced Client-Side Khan Academy Cheat.
-
-> 💠 Doação via pix:
-> https://livepix.gg/nixyy
 
 🙂 Stable:
 ```js
